@@ -1,0 +1,16 @@
+<?xml-stylesheet type="text/xsl" href="https://opsdiary.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://opsdiary.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://opsdiary.com/</loc>
+  </url>
+  
+  <url>
+    <loc>https://opsdiary.com/tags/</loc>
+  </url>
+  
+</urlset>
